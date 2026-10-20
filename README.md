@@ -1,7 +1,6 @@
-## Hi there 👋
 
 
-# Hi there, I'm Trisha V 👋
+### Hi there, I'm Trisha V 👋
 
 🎓 CSE Student specializing in AI & Data Science
 💻 Building projects in Python, Java, and REST APIs
