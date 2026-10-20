@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hi there, I'm Trisha V 👋
 
 🎓 CSE Student specializing in AI & Data Science
@@ -12,4 +12,4 @@
 - **Languages:** Python, Java, SQL
 - **Frameworks & Tools:** Git, GitHub, Postman, MySQL, VS Code
 - **Interests:** Machine Learning, Agentic AI, Cloud-backed APIs
--->
+
